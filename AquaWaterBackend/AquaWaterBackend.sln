@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AquaWater.Api", "AquaWater.Api\AquaWater.Api.csproj", "{0731BF8D-8115-45D3-ACF2-03204823879E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AquaWater.BusinessLogic", "AquaWater.BusinessLogic\AquaWater.BusinessLogic.csproj", "{F8BD61FD-6D35-42EB-B447-789A495EC9DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AquaWater.Domain", "AquaWater.Domain\AquaWater.Domain.csproj", "{ECA41B9E-A95E-4FF8-8F54-7650BFA7220D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AquaWater.Data", "AquaWater.Data\AquaWater.Data.csproj", "{84E03DD5-5CC2-482D-8547-0B59E84413FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AquaWater.Test", "AquaWater.Test\AquaWater.Test.csproj", "{209239D9-162A-4BD1-80B3-F5B8813814AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AquaWater.Dto", "AquaWater.Dto\AquaWater.Dto.csproj", "{2F0D54FB-3DB7-4BBB-AB8E-6877FD16583E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0731BF8D-8115-45D3-ACF2-03204823879E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0731BF8D-8115-45D3-ACF2-03204823879E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0731BF8D-8115-45D3-ACF2-03204823879E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0731BF8D-8115-45D3-ACF2-03204823879E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8BD61FD-6D35-42EB-B447-789A495EC9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BD61FD-6D35-42EB-B447-789A495EC9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BD61FD-6D35-42EB-B447-789A495EC9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BD61FD-6D35-42EB-B447-789A495EC9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA41B9E-A95E-4FF8-8F54-7650BFA7220D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA41B9E-A95E-4FF8-8F54-7650BFA7220D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA41B9E-A95E-4FF8-8F54-7650BFA7220D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA41B9E-A95E-4FF8-8F54-7650BFA7220D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E03DD5-5CC2-482D-8547-0B59E84413FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E03DD5-5CC2-482D-8547-0B59E84413FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E03DD5-5CC2-482D-8547-0B59E84413FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E03DD5-5CC2-482D-8547-0B59E84413FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209239D9-162A-4BD1-80B3-F5B8813814AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209239D9-162A-4BD1-80B3-F5B8813814AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209239D9-162A-4BD1-80B3-F5B8813814AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209239D9-162A-4BD1-80B3-F5B8813814AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0D54FB-3DB7-4BBB-AB8E-6877FD16583E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0D54FB-3DB7-4BBB-AB8E-6877FD16583E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0D54FB-3DB7-4BBB-AB8E-6877FD16583E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0D54FB-3DB7-4BBB-AB8E-6877FD16583E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D261E06B-C00D-4448-B560-3CCB2E5F2CE7}
+	EndGlobalSection
+EndGlobal

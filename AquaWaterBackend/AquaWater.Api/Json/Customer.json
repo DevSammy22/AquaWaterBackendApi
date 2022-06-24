@@ -1,0 +1,33 @@
+[
+	{
+		"Id": "67c38c2f-6110-42a0-977a-5610958fc2df",
+		"UserId": "68af93ad-32fc-4132-bf8a-753ea26a052f",
+		"EarnedCash": 1353,
+		"ConsumptionLevel": 955
+	},
+	{
+		"Id": "2870c168-35fc-4626-9792-afbd496fb627",
+		"UserId": "e7929536-646e-4fba-bcff-46502bf96dff",
+		"EarnedCash": 713,
+		"ConsumptionLevel": 405
+	},
+
+	{
+		"Id": "50a511d6-7827-4ec9-8e1a-99cd394f8896",
+		"UserId": "55ca3a60-be62-4557-a318-74637b02d66f",
+		"EarnedCash": 693,
+		"ConsumptionLevel": 922
+	},
+	{
+		"Id": "13ba4005-598d-42b9-85fe-cbb0c3ba9e06",
+		"UserId": "aa0856b5-66de-4b4b-8cab-e0cd907c0eb1",
+		"EarnedCash": 693,
+		"ConsumptionLevel": 922
+	},
+	{
+		"Id": "018d58d6-d886-464b-ac4a-471ee0e5ac62",
+		"UserId": "d3c3a69d-c55e-4919-acf0-390020744cae",
+		"EarnedCash": 693,
+		"ConsumptionLevel": 922
+	}
+]

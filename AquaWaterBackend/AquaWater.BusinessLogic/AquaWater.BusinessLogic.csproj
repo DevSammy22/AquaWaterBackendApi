@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Implementation\**" />
+    <Compile Remove="Interfaces\**" />
+    <EmbeddedResource Remove="Implementation\**" />
+    <EmbeddedResource Remove="Interfaces\**" />
+    <None Remove="Implementation\**" />
+    <None Remove="Interfaces\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AquaWater.Data\AquaWater.Data.csproj" />
+    <ProjectReference Include="..\AquaWater.Domain\AquaWater.Domain.csproj" />
+    <ProjectReference Include="..\AquaWater.Dto\AquaWater.Dto.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CloudinaryDotNet" Version="1.17.0" />
+    <PackageReference Include="Mailjet.Api" Version="2.0.2" />
+    <PackageReference Include="MailKit" Version="3.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.16" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="5.0.0" />
+    <PackageReference Include="MimeKit" Version="3.2.0" />
+    <PackageReference Include="NETCore.MailKit" Version="2.0.3" />
+    <PackageReference Include="PayStack.Net" Version="0.7.7" />
+  </ItemGroup>
+
+</Project>

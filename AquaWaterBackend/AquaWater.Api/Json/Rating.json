@@ -1,0 +1,99 @@
+[
+	{
+		"Id": "277ae44d-e5af-422b-bbfb-e5e2cdc63b58",
+		"ProductId": "48f9be5e-13d4-47ff-ab3f-ab8d3cbf2b63",
+		"CustomerId": "018d58d6-d886-464b-ac4a-471ee0e5ac62",
+		"Rate": 3
+	},
+	{
+		"Id": "16b9dc49-3a70-4ac0-83be-f3891da5a939",
+		"ProductId": "48f9be5e-13d4-47ff-ab3f-ab8d3cbf2b63",
+		"CustomerId": "018d58d6-d886-464b-ac4a-471ee0e5ac62",
+		"Rate": 4
+	},
+	{
+		"Id": "421b5c97-ee65-4223-97d2-73145cce90e3",
+		"ProductId": "48f9be5e-13d4-47ff-ab3f-ab8d3cbf2b63",
+		"CustomerId": "018d58d6-d886-464b-ac4a-471ee0e5ac62",
+		"Rate": 4
+	},
+	{
+		"Id": "1ef2e21e-ba07-4758-8e7d-63b4bb4429b6",
+		"ProductId": "7e6fdda3-1f3f-4f14-a1dd-649a67fa9fbc",
+		"CustomerId": "13ba4005-598d-42b9-85fe-cbb0c3ba9e06",
+		"Rate": 2
+	},
+	{
+		"Id": "7aac6747-d3ff-4f81-917f-4f3962428fb9",
+		"ProductId": "7e6fdda3-1f3f-4f14-a1dd-649a67fa9fbc",
+		"CustomerId": "50a511d6-7827-4ec9-8e1a-99cd394f8896",
+		"Rate": 2
+	},
+	{
+		"Id": "3deefe95-e56e-4025-9edb-6bff8212efa4",
+		"ProductId": "647c71e2-3971-4153-a575-b035f87e4967",
+		"CustomerId": "13ba4005-598d-42b9-85fe-cbb0c3ba9e06",
+		"Rate": 3
+	},
+	{
+		"Id": "79c8471d-1b99-425b-ab12-cc91be708a58",
+		"ProductId": "647c71e2-3971-4153-a575-b035f87e4967",
+		"CustomerId": "13ba4005-598d-42b9-85fe-cbb0c3ba9e06",
+		"Rate": 2
+	},
+	{
+		"Id": "8069f344-b693-4875-a064-d9d921ac9269",
+		"ProductId": "647c71e2-3971-4153-a575-b035f87e4967",
+		"CustomerId": "50a511d6-7827-4ec9-8e1a-99cd394f8896",
+		"Rate": 4
+	},
+	{
+		"Id": "975438cb-68d9-4977-a073-91eca58d7649",
+		"ProductId": "80447deb-2fc0-439b-b938-5d839d33b593",
+		"CustomerId": "50a511d6-7827-4ec9-8e1a-99cd394f8896",
+		"Rate": 2
+	},
+	{
+		"Id": "c8720929-15c2-4b4d-9f2e-14b0a787d739",
+		"ProductId": "80447deb-2fc0-439b-b938-5d839d33b593",
+		"CustomerId": "2870c168-35fc-4626-9792-afbd496fb627",
+		"Rate": 4
+	},
+	{
+		"Id": "f0ff2f28-394f-4982-ad03-8672fd11c8d9",
+		"ProductId": "80447deb-2fc0-439b-b938-5d839d33b593",
+		"CustomerId": "2870c168-35fc-4626-9792-afbd496fb627",
+		"Rate": 3
+	},
+	{
+		"Id": "3fd5e732-b93c-4b4e-ba37-6bb9625e07da",
+		"ProductId": "9601d4d7-f62c-4107-98ce-a6cc5a52781e",
+		"CustomerId": "2870c168-35fc-4626-9792-afbd496fb627",
+		"Rate": 2
+	},
+	{
+		"Id": "ea97ac0a-e75c-4959-84da-70119ae81dce",
+		"ProductId": "9601d4d7-f62c-4107-98ce-a6cc5a52781e",
+		"CustomerId": "018d58d6-d886-464b-ac4a-471ee0e5ac62",
+		"Rate": 1
+	},
+	{
+		"Id": "a826b169-7acf-4ff5-b86e-578eb7e6a38e",
+		"ProductId": "9601d4d7-f62c-4107-98ce-a6cc5a52781e",
+		"CustomerId": "018d58d6-d886-464b-ac4a-471ee0e5ac62",
+		"Rate": 1
+	},
+	{
+		"Id": "8978da95-600a-4912-aeb3-52dc8683557a",
+		"ProductId": "8334806c-569d-4b23-89e1-8a2f87d06bf4",
+		"CustomerId": "67c38c2f-6110-42a0-977a-5610958fc2df",
+		"Rate": 4
+	},
+	{
+		"Id": "25512ca9-c7fe-41ab-b451-078ef2681381",
+		"ProductId": "8334806c-569d-4b23-89e1-8a2f87d06bf4",
+		"CustomerId": "13ba4005-598d-42b9-85fe-cbb0c3ba9e06",
+		"Rate": 1
+	}
+]
+
